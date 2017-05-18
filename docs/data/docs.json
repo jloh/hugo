@@ -194,10 +194,10 @@
         "OutputFormat": "CSV",
         "Suffix": "csv",
         "Template Lookup Order": [
-          "layouts/demotype/single.csv.csv",
-          "layouts/demotype/single.csv",
-          "layouts/_default/single.csv.csv",
-          "layouts/_default/single.csv"
+          "layouts/demotype/single.json.json",
+          "layouts/demotype/single.json",
+          "layouts/_default/single.json.json",
+          "layouts/_default/single.json"
         ]
       },
       {
